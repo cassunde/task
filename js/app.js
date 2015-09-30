@@ -16,7 +16,7 @@ var fAnda = 0;
 function validaUsr(vUsr, vSenha){
 
     if(vUsr == "m" && vSenha == "1"){
-a
+
         return "hmjeh";
 
     }else{
